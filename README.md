@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2001krishanu&" alt="2001krishanu" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Thanks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Thanks" /></a></p><br><
+<p><a href="https://www.buymeacoffee.com/Thanks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Thanks" /></a></p><br>
